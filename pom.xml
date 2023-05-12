@@ -5,9 +5,7 @@
   <artifactId>algorithm</artifactId>
   <packaging>pom</packaging>
   <modules>
-    <module>array</module>
-    <module>list</module>
-    <module>list1</module>
+
   </modules>
   <version>1.0-SNAPSHOT</version>
   <name>Maven Quick Start Archetype</name>
